@@ -31,5 +31,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-ch0&langs_count=8&theme=gotham" alt=pat-ch0 />
 
-<h3 align="left">Statistics</h3>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
+<h3 align="center">Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
+</div>
