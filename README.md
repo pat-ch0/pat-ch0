@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anthony</h1>
-<h3 align="center">A french Full stack Big Data developer.</h3>
+<h2 align="center">A french Full stack Big Data developer.</h2>
 
 <div> <a href="https://github.com/pat-ch0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
@@ -31,5 +31,5 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-ch0&langs_count=8&theme=gotham" alt=pat-ch0 />
 
-<h3 align="right">Statistics</h3>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
+<h3 align="left">Statistics</h3>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
