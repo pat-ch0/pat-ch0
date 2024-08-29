@@ -26,7 +26,7 @@
 </li>
 
 <li>
-<p>miscellaneous</p>
+<p>Miscellaneous</p>
 <p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
@@ -56,5 +56,5 @@
 <h3 align="left">Statistics</h3>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
 
-<h3 align="left">TryHackMe stats</h3>
+<h3 align="left">TryHackMe</h3>
  <img src="https://tryhackme-badges.s3.amazonaws.com/patch0.png" alt="TryHackMe">
