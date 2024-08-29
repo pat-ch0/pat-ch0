@@ -29,23 +29,12 @@
 </li>
 
 <li>
-<p>Database</p>
+<p>miscellaneous</p>
 <p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-</p>
-</li>
-
-<li>
-<p>Devops</p>
-<p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</p>
-</li>
-
-<li>
-<p>Mobile</p>
-<p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 </li>
 
@@ -67,13 +56,6 @@
 </li>
 
 <li>
-<p>Engines</p>
-<p>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-</p>
-</li>
-
-<li>
 <p>Other</p>
 <p>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -84,3 +66,6 @@
 
 <h3 align="left">Statistics</h3>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
+
+<h3 align="left">TryHackMe stats</h3>
+<script src="https://tryhackme.com/badge/3428530"></script>
