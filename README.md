@@ -55,6 +55,3 @@
 
 <h3 align="left">Statistics</h3>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pat-ch0&theme=gotham" height="180em" />
-
-<h3 align="left">TryHackMe</h3>
- <img src="https://tryhackme-badges.s3.amazonaws.com/patch0.png" alt="TryHackMe">
