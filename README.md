@@ -55,9 +55,4 @@ Hello ! I'm Anthony, a full stack developer with a Big Data specialization curre
 - 🤖 Machine Learning
 - 🔄 Agile methodologies
 
-## 📫 Get in Touch
-I'm always open to interesting conversations and opportunities. Feel free to reach out !
-
-- 📧 E-mail: [antho.patcho@outlook.fr](mailto:antho.patcho@outlook.fr)
-
 ---
