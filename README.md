@@ -55,4 +55,6 @@ Hello ! I'm Anthony, a full stack developer with a Big Data specialization curre
 - 🤖 Machine Learning
 - 🔄 Agile methodologies
 
+### My TryHackMe profile badge :
+[![My TryHackMe profile](https://tryhackme-badges.s3.amazonaws.com/patch0.png)](https://tryhackme.com/r/p/patch0)
 ---
