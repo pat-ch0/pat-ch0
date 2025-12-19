@@ -1,7 +1,7 @@
 # 🧑‍💻 Anthony
 
 ## 🚀 About me
-Hello ! I'm Anthony, a full stack developer with a Big Data specialization currently working at Astrée Software.
+Hello ! I'm Anthony, a full stack developer with a Big Data specialization.
 
 ### 🛠️ Main programming languages
 <p>
