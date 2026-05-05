@@ -12,7 +12,6 @@ Hello ! I'm Anthony, a full stack developer with a Big Data specialization.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="55"/>
   <img <img src="https://github.com/user-attachments/assets/3ad5708d-e28d-4d30-89ea-8d1387143627" alt="JavaScript" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="55"/>
-  <img <img src="https://github.com/user-attachments/assets/5e3faea7-e4e8-4d69-91b9-5f1bb41bc490" alt="C" height="55"/>
 
 </p>
 
